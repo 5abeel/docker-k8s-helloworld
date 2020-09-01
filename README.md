@@ -3,8 +3,8 @@
 A 'Hello World' example of building containers and deploying in Docker runtime & k8s (minikube)
 
 Pre-req:
-* Docker 
-* Minikube
+* [Docker](https://docs.docker.com/desktop/)
+* [Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
 ## Build Docker Container
 
